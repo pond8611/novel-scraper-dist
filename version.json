@@ -1,7 +1,7 @@
 {
-  "exe_version": 51,
-  "exe_name": "DoodNiyay-v51.exe",
-  "sha256": "112280e632ac4d5b9f5d4a774ea1c317d8cb30fbc73398984d65e15c4be4c7d1",
-  "release_tag": "exe-v51",
-  "size": 24097792
+  "app_version": 52,
+  "zip_name": "DoodNiyay-v52.zip",
+  "sha256": "e152ae4721742391e19332120e4e129cb56827daf26119f67874c15ef892f86e",
+  "release_tag": "app-v52",
+  "size": 37654621
 }
