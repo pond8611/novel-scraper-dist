@@ -1,7 +1,7 @@
 {
-  "pyd_version": 54,
+  "pyd_version": 55,
   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
-  "pyd_sha256": "3a48e1e6cfa950f1ac16023a3085c03b05a727cf3bc9eb3dd63a3a0928d6319b",
-  "release_tag": "app-v54",
-  "size": 3556352
+  "pyd_sha256": "ea248023b63108c90da551b1510f1ec275b148975794f2b2a4dbd362a1dff9d9",
+  "release_tag": "app-v55",
+  "size": 3603968
 }
