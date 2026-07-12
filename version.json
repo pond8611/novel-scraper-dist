@@ -1,7 +1,7 @@
 {
-  "app_version": 52,
-  "zip_name": "DoodNiyay-v52.zip",
-  "sha256": "96b3baa4369c472178b1af5599ec130661823be940aaaa3279433400b50d704d",
-  "release_tag": "app-v52",
-  "size": 37662676
+  "pyd_version": 53,
+  "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+  "pyd_sha256": "32d5f123e4633bf0e5acc5e0f965444e752d9e90ae4b1f306ca1fa6581573ee3",
+  "release_tag": "app-v53",
+  "size": 3350016
 }
