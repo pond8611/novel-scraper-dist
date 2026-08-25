@@ -1,0 +1,341 @@
+{
+ "schema": 1,
+ "releases": [
+  {
+   "pyd_version": 108,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "874ce04fdabd888bfbd7fb617630151c07bb1da30b9e3775a80478f38e5ee006",
+   "release_tag": "app-v108",
+   "size": 6632448
+  },
+  {
+   "pyd_version": 107,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "03af9691c29c913c809f28743ddc664fc0b98dc7ee22407c91c6638ab74aaed3",
+   "release_tag": "app-v107",
+   "size": 6629888
+  },
+  {
+   "pyd_version": 106,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "3f4122bcc5ba0b9c16392e6024864be2e5ec265e24a793637d99e5b4af629c5a",
+   "release_tag": "app-v106",
+   "size": 6603264
+  },
+  {
+   "pyd_version": 105,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "0ea92dbe0e6311a10bda7719e96b1ca74e17e9aaf2116b8abbdecd216fc2e86e",
+   "release_tag": "app-v105",
+   "size": 6605312
+  },
+  {
+   "pyd_version": 104,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "17d689bd8a2c8a616896707367c930dd07f4a7b33aa82bb5f3e23c40243c4470",
+   "release_tag": "app-v104",
+   "size": 6466048
+  },
+  {
+   "pyd_version": 103,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "a9b4da1d6a5a741c29e2abffbc966be80321e25772cca55599924ba519db53c9",
+   "release_tag": "app-v103",
+   "size": 6175232
+  },
+  {
+   "pyd_version": 102,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "4687c93c5f794934015d161fa6d26ab31b1cebe53da1a7ce53671aceb3226d02",
+   "release_tag": "app-v102",
+   "size": 5749760
+  },
+  {
+   "pyd_version": 101,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "f18a47681abfa346b17cc692f64912f9b81d9f47a7691e2b45ff35b4b6ec9e50",
+   "release_tag": "app-v101",
+   "size": 5748224
+  },
+  {
+   "pyd_version": 100,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "ad7669ed78a215bdbf6aa0b17e27017518c2735474781e08b7799a69215d5f57",
+   "release_tag": "app-v100",
+   "size": 5742592
+  },
+  {
+   "pyd_version": 99,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "44a532409ba25bf668532dda85dc742b98058474f9f55fcc9e0649b05480458f",
+   "release_tag": "app-v99",
+   "size": 5740544
+  },
+  {
+   "pyd_version": 98,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "6addafcc1f2b4ab0bc63610a96569c88647251dcf4f98b00a6edca02bf95a557",
+   "release_tag": "app-v98",
+   "size": 5666816
+  },
+  {
+   "pyd_version": 97,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "cba3de6cc88cb2fda427a40c969e71a9bcbd31b99805f111ab71bfa0bc0e1628",
+   "release_tag": "app-v97",
+   "size": 5657088
+  },
+  {
+   "pyd_version": 96,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "d192597e8d06034afd18982aaa823139a4abe7699028c8239f6ef5121ca07b87",
+   "release_tag": "app-v96",
+   "size": 5650432
+  },
+  {
+   "pyd_version": 95,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "54d1a6ff6ad50b073cc559eccdab76ff30a9f168ad0b066dee88b1d0dcc4e5b2",
+   "release_tag": "app-v95",
+   "size": 5187072
+  },
+  {
+   "pyd_version": 94,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "cd2efe811c8190d7d32b2ae400e057f40c178bcb94b91010484607cca21ac91f",
+   "release_tag": "app-v94",
+   "size": 5176832
+  },
+  {
+   "pyd_version": 92,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "a188f4136537c42a8b0343f5fffd61fd08f2d9ba1ec62677412b8151221a0191",
+   "release_tag": "app-v92",
+   "size": 5156864
+  },
+  {
+   "pyd_version": 91,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "44c490d0f181c251af0c9ff19b92d29007f3570592e40f06157ac2e58b69dbce",
+   "release_tag": "app-v91",
+   "size": 4577792
+  },
+  {
+   "pyd_version": 90,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "9ee4df056b75838ce3c2d8ea114442a654f25c9ec624444a0ece9795279c58a4",
+   "release_tag": "app-v90",
+   "size": 4531712
+  },
+  {
+   "pyd_version": 87,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "6d4a0dd0682b22ebc4d254de40b131620767009dd90845049ccc966c53130ef6",
+   "release_tag": "app-v87",
+   "size": 4006400
+  },
+  {
+   "pyd_version": 86,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "e2058ac365d6654cf66ea584fd61301ed818d4cb62f8472298a7e1c178f198b5",
+   "release_tag": "app-v86",
+   "size": 4005888
+  },
+  {
+   "pyd_version": 85,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "57c5d6ab8891c8f61b16343924c69caa9871f7755ae61ec769b6b18564f459ac",
+   "release_tag": "app-v85",
+   "size": 4001792
+  },
+  {
+   "pyd_version": 83,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "4de16230fd14548adffd7434a5c3e11255daa824563eb66b0bc656beef01fa7e",
+   "release_tag": "app-v83",
+   "size": 3946496
+  },
+  {
+   "pyd_version": 82,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "662fcb0606e88502f933a7c7ae3720fa94ac8d39e754ba9931767b7cc854d7d7",
+   "release_tag": "app-v82",
+   "size": 3945472
+  },
+  {
+   "pyd_version": 81,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "2d0ba6f4ddc73cb07440c7d2c0f88b324b0c29067cd699a432f9f8dfc74bf0aa",
+   "release_tag": "app-v81",
+   "size": 3941376
+  },
+  {
+   "pyd_version": 80,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "fcc71cd6f6b9b3ed0fb3d1f5b32bd95ef77428485075cfd5fc8488532c365e39",
+   "release_tag": "app-v80",
+   "size": 3936256
+  },
+  {
+   "pyd_version": 77,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "26bb1386fea7abfa97327bedd0f0f09c24fcbd25796ed05b494db894f1803964",
+   "release_tag": "app-v77",
+   "size": 3909120
+  },
+  {
+   "pyd_version": 76,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "ef3c50d1c7a45317ce1292af7375a29cb1718fd745dc8f197f7b78b696dbbf64",
+   "release_tag": "app-v76",
+   "size": 3904000
+  },
+  {
+   "pyd_version": 75,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "ef3eedee0e1d39ecd7bfd0e5261ead127ef0d668a835d6a39afb0d1bd03a19ee",
+   "release_tag": "app-v75",
+   "size": 3838464
+  },
+  {
+   "pyd_version": 74,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "b08f542b34252a63b65ea74f6607076e26bf6dc1e4accd9e891aa49c6d2209a7",
+   "release_tag": "app-v74",
+   "size": 3854336
+  },
+  {
+   "pyd_version": 73,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "031d104f77a013ef5b03d1411a28e41def940fa7e3c8aaf90b4b0b8791e9dbf5",
+   "release_tag": "app-v73",
+   "size": 3813888
+  },
+  {
+   "pyd_version": 72,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "619cb6c0b75f895ac4acdc9a8a1ad33e40601f3955bdd0f7fd91882f7a942279",
+   "release_tag": "app-v72",
+   "size": 3791360
+  },
+  {
+   "pyd_version": 71,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "ff2446d0ad5c6c855baba02d402b43ac215864d52391ef95faf67e299e4ce3d2",
+   "release_tag": "app-v71",
+   "size": 3783168
+  },
+  {
+   "pyd_version": 70,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "36f6ac37500940df67703ef08886ab727ff55f2c34eb2c8879a46de8461aee61",
+   "release_tag": "app-v70",
+   "size": 3784192
+  },
+  {
+   "pyd_version": 69,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "1c9a8a3d3f9e47db6c7641d319a04a70ac0a80c0ce2d2c1509a586d6c5727ef7",
+   "release_tag": "app-v69",
+   "size": 3709440
+  },
+  {
+   "pyd_version": 68,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "739a436eaa59eee0f8c4941cb0a1c68bfc4f70dea8d2de20a30de502847fdfd5",
+   "release_tag": "app-v68",
+   "size": 3713024
+  },
+  {
+   "pyd_version": 67,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "6ad1d7418c37cb974214ff256b7ad37b30355e58f5c154a9ab6365f41fe0e74e",
+   "release_tag": "app-v67",
+   "size": 3707904
+  },
+  {
+   "pyd_version": 64,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "ea279dec495ed2c8e0a21bf3a633f67fb673bdf4ffb26d63ca95c9d75d252343",
+   "release_tag": "app-v64",
+   "size": 3680256
+  },
+  {
+   "pyd_version": 63,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "fd28e4d0422591e0c7541c0b202220dfbf47123a659162587a5ea7eaf993202c",
+   "release_tag": "app-v63",
+   "size": 3683328
+  },
+  {
+   "pyd_version": 62,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "f1e360a1ab15554ca71bfb77fcc21cb3ba897b0db3ae94c20f7a75a297073fee",
+   "release_tag": "app-v62",
+   "size": 3681280
+  },
+  {
+   "pyd_version": 61,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "77ff8a54a49b93e9266c001c04d8bd4cfa12531b2484bc5e4adf6cb89622bd45",
+   "release_tag": "app-v61",
+   "size": 3681792
+  },
+  {
+   "pyd_version": 60,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "7db451c18ea33e5cb5c6132e4fae57399e7f610928a160caa79bca191544e379",
+   "release_tag": "app-v60",
+   "size": 3670528
+  },
+  {
+   "pyd_version": 59,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "bad03248ea7e9840eb028cf94a529570544bcca3093c24e0b41e07b40e462530",
+   "release_tag": "app-v59",
+   "size": 3670016
+  },
+  {
+   "pyd_version": 58,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "b4f620c9ae3524b069062b1bf3b34a757775f8e9c648076011c841598ec85974",
+   "release_tag": "app-v58",
+   "size": 3612160
+  },
+  {
+   "pyd_version": 57,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "82f635fb1772b616741bc07d0e045b63c768dd6dddedf8d7b8dfa665778a8236",
+   "release_tag": "app-v57",
+   "size": 3606528
+  },
+  {
+   "pyd_version": 56,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "cd16b29aaafe4331709d768a2829c0500d2745279163ebdb8a647ec259601196",
+   "release_tag": "app-v56",
+   "size": 3607552
+  },
+  {
+   "pyd_version": 55,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "ea248023b63108c90da551b1510f1ec275b148975794f2b2a4dbd362a1dff9d9",
+   "release_tag": "app-v55",
+   "size": 3603968
+  },
+  {
+   "pyd_version": 54,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "3a48e1e6cfa950f1ac16023a3085c03b05a727cf3bc9eb3dd63a3a0928d6319b",
+   "release_tag": "app-v54",
+   "size": 3556352
+  },
+  {
+   "pyd_version": 53,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "32d5f123e4633bf0e5acc5e0f965444e752d9e90ae4b1f306ca1fa6581573ee3",
+   "release_tag": "app-v53",
+   "size": 3350016
+  }
+ ]
+}
