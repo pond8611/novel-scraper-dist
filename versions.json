@@ -2,6 +2,13 @@
  "schema": 1,
  "releases": [
   {
+   "pyd_version": 123,
+   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
+   "pyd_sha256": "b5077a005110e2d4cfe54812399d214069947858e3500e95e7aea95e1407f5f1",
+   "release_tag": "app-v123",
+   "size": 7290880
+  },
+  {
    "pyd_version": 122,
    "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
    "pyd_sha256": "8dae03aee964e38f38b9c949e28527a70cf9b056fffeb4172d7089b599ddedc9",
