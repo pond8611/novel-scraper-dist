@@ -9,13 +9,6 @@
    "size": 8486912
   },
   {
-   "pyd_version": 126,
-   "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
-   "pyd_sha256": "3b55c29dec7b8a04406ab09fe15a862d0517c6ba88269853b0004c06b294a37b",
-   "release_tag": "app-v126",
-   "size": 8172544
-  },
-  {
    "pyd_version": 125,
    "pyd_name": "dood_niyay.cp313-win_amd64.pyd",
    "pyd_sha256": "e15d9d21a8b5115331fa9802a5052d87c0b417f896b103178b023627c8e9626e",
